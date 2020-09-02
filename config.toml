@@ -1,4 +1,4 @@
-baseURL = "leies.tech"
+baseURL = "https://www.leies.tech/"
 languageCode = "en-us"
 title = "Leies Test Site"
 theme = "hugo-creative-portfolio-theme"

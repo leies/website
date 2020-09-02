@@ -1,4 +1,4 @@
 baseURL = ""
 languageCode = "en-us"
 title = "Leies Test Site"
-theme = "hugo-theme-massively-master"
+theme = "hugo-creative-portfolio-theme"

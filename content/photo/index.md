@@ -1,8 +1,6 @@
 ---
-title: "Phone"
+title: "Photo"
 date: 2020-09-02T21:40:06+08:00
-draft: true
+draft: false
 ---
-Photo
-
 {{< gallery dir="/photo/portrait" />}}

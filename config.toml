@@ -1,6 +1,6 @@
 baseURL = "https://www.leies.tech/"
 languageCode = "en-us"
-title = "Leies Test Site"
+title = "Leies"
 theme = "hugo-creative-portfolio-theme"
 
 # Enable comments by entering your Disqus shortname
@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Describe your website"
+  description = "about leies"
   copyright = "&copy;2020 Triforce"
   sidebarAbout = [
     "I am a NOOB Sor9."
@@ -29,7 +29,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "leieschan@hotmail.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -41,10 +41,21 @@ googleAnalytics = ""
       #  hash = ""
 
   # Nav links in the side bar
+
   [[params.navlinks]]
+
   name = "Home"
+  url = "posts/"
+  home = true
+
+  [[params.navlinks]]
+  name = "Portfolio"
   url = "portfolio/"
   home = true
+
+  [[params.navlinks]]
+  name = "Photo"
+  url = "photo/"
 
   [[params.navlinks]]
   name = "About"

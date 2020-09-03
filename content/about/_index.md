@@ -2,20 +2,16 @@
 date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
+![alt text](/photo/lc.jpg "Leies.app")
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+I’m Leies, from Hong Kong.
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+Thanks for visit my gallery, hope you like them.
 
-![This is me][1]
+I started taking photos on 2016, the first camera is Mint TL70 version 2, almost full manual camera. And on Sept, 2016, i got a  Fujifilm X-T2, my journey started…
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+My IG – https://www.instagram.com/leies/
+My FB – https://www.facebook.com/leies
 
-#### Education
+Photography, is   loneliness, silence, i love it so much.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
-
-[1]: /img/about.jpg

@@ -5,9 +5,10 @@ image: "/photo/portrait/004-thumb.jpg"
 showonlyimage: false
 draft: false
 weight: 0
----
-                           
+---ㅤㅤㅤㅤ
 <!--more-->
 {{< load-photoswipe >}} 
+<!--more-->
 {{< gallery caption-position="none" >}}
+<!--more-->
 {{< gallery dir="/photo/portrait" />}}

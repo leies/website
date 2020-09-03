@@ -7,6 +7,8 @@ draft: false
 ---
 <!--more-->
 {{< load-photoswipe >}} 
+<!--more-->
 {{< gallery caption-position="none" >}}
+<!--more-->
 {{< gallery dir="/photo/punkey" />}}
-
+<!--more-->

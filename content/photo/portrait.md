@@ -8,5 +8,8 @@ weight: 0
 ---
 <!--more-->
 {{< load-photoswipe >}} 
+<!--more-->
 {{< gallery caption-position="none" >}}
+<!--more-->
 {{< gallery dir="/photo/portrait" />}}
+<!--more-->

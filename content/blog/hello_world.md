@@ -2,7 +2,7 @@
 showonlyimage: false
 title: "Hello_world"
 date: 2020-09-03T23:21:18+08:00
-draft: true
+draft: false
 image: "img/post/leiesapp-thumb.jpg"
 ---
 

@@ -51,7 +51,7 @@ googleAnalytics = ""
   name = "Photo"
   url = "photo/"
 
-    [[params.navlinks]]
+  [[params.navlinks]]
   name = "Blog"
   url = "blog/"
 

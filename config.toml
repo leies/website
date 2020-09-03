@@ -1,6 +1,6 @@
 baseURL = "https://www.leies.tech/"
 languageCode = "en-us"
-title = "Leies"
+title = "Triforce"
 theme = "hugo-creative-portfolio-theme"
 
 # Enable comments by entering your Disqus shortname
@@ -15,7 +15,7 @@ googleAnalytics = ""
   description = "about leies"
   copyright = "&copy;2020 Triforce"
   sidebarAbout = [
-    "I am a NOOB Sor9."
+    "Moving Wordpress to this static page."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -44,16 +44,16 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Home"
-  url = "posts/"
+  url = "landing/"
   home = true
-
-  [[params.navlinks]]
-  name = "Portfolio"
-  url = "portfolio/"
 
   [[params.navlinks]]
   name = "Photo"
   url = "photo/"
+
+    [[params.navlinks]]
+  name = "Blog"
+  url = "blog/"
 
   [[params.navlinks]]
   name = "About"

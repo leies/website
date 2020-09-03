@@ -6,10 +6,8 @@ showonlyimage: false
 draft: false
 weight: 0
 ---
+My portrait shot
 <!--more-->
 {{< load-photoswipe >}} 
-<!--more-->
 {{< gallery caption-position="none" >}}
-<!--more-->
 {{< gallery dir="/photo/portrait" />}}
-<!--more-->

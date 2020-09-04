@@ -6,7 +6,7 @@ showonlyimage: false
 draft: false
 weight: 5
 ---
-Most snap by Mint Camera
+Most snapped by Mint TL70 version 2
 <!--more-->
 {{< load-photoswipe >}} 
 {{< gallery caption-position="none" >}}

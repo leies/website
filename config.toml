@@ -44,7 +44,7 @@ googleAnalytics = "UA-80281947-2"
 
   [[params.navlinks]]
   name = "Blog"
-  url = "portfolio/"
+  url = "blog/"
 
   [[params.navlinks]]
   name = "About"

@@ -5,6 +5,7 @@ date: 2020-09-05T02:08:22+08:00
 draft: false
 image: "/photo/punkey/0006-thumb.jpg"
 ---
+# more
 <!--more-->
 Today i've move more photos during no pay leave, lucky, there's still some jobs on going unlike previous months, and surprised me, its better than 2019 (Sept).
 

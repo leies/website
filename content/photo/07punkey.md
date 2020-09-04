@@ -1,7 +1,7 @@
 ---
 title: "Punkey"
 date: 2020-09-03T19:35:49+08:00
-image: "/photo/punkey/033-thumb.jpg"
+image: "/photo/punkey/0033-thumb.jpg"
 showonlyimage: false
 draft: false
 weight: 7

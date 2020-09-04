@@ -6,7 +6,6 @@ date: 2020-09-03T23:21:18+08:00
 draft: false
 image: "/img/post/leiesapp-thumb.jpg"
 ---
-# more
 <!--more-->
 Hello from Hugo !
 

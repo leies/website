@@ -6,7 +6,7 @@ showonlyimage: false
 draft: false
 weight: 5
 ---
-Most snapped by Mint TL70 version 2
+Mint TL70v2, Lomo Instant
 <!--more-->
 {{< load-photoswipe >}} 
 {{< gallery caption-position="none" >}}

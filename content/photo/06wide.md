@@ -1,5 +1,5 @@
 ---
-title: "L e i e s | Fuji Instant Wide"
+title: "Fuji Instant Wide"
 date: 2020-09-04T18:16:49+08:00
 image: "/photo/wide/cover.jpg"
 showonlyimage: false

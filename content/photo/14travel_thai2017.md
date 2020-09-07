@@ -1,5 +1,5 @@
 ---
-title: "L e i e s | Thailand 2017"
+title: "Thailand 2017"
 date: 2020-09-03T19:35:49+08:00
 image: "/photo/thai2017/042-thumb.jpg"
 showonlyimage: false

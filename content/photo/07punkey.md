@@ -1,5 +1,5 @@
 ---
-title: "L e i e s | Punkey"
+title: "Punkey"
 date: 2020-09-03T19:35:49+08:00
 image: "/photo/punkey/0033-thumb.jpg"
 showonlyimage: false

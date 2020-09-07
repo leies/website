@@ -1,6 +1,6 @@
 ---
 showonlyimage: false
-title: "L e i e s | Stat"
+title: "Stat"
 date: 2020-09-05T03:56:34+08:00
 draft: false
 image: ""

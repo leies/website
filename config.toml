@@ -58,6 +58,10 @@ googleAnalytics = "UA-80281947-2"
   name = "Get in touch"
   url = "contact/"
 
+  [[params.navlinks]]
+  name = "My Full Width Website"
+  url = "https://leies.app"
+
   [params.social]
   facebook      = "https://www.facebook.com/leieschan"
   googleplus    = ""

@@ -1,5 +1,5 @@
 ---
-title: "Pregnancy Photography"
+title: "Pregnancy"
 date: 2020-09-03T19:35:49+08:00
 image: "/photo/beryl_pregnancy/028-thumb.jpg"
 showonlyimage: false

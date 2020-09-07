@@ -15,7 +15,7 @@ googleAnalytics = "UA-80281947-2"
   description = "about triforce"
   copyright = "&copy;2020 Triforce"
   sidebarAbout = [
-    "Moving Wordpress to this static page."
+    ""
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

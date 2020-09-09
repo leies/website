@@ -59,7 +59,7 @@ googleAnalytics = "UA-80281947-2"
   url = "contact/"
 
   [[params.navlinks]]
-  name = "My Full Width Website"
+  name = "Desktop Gallery"
   url = "https://leies.app"
 
   [params.social]
